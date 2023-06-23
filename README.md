@@ -6,4 +6,4 @@ Please click on each file to read specific file you want.
 
 Thank you and have a nice watching! 
 
-Claim: This is original work by myself. All the erros are mine. 
+Claim: This is original work by myself. All the errors are mine. 
