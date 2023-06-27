@@ -1,6 +1,7 @@
 Hello-Bonjour,
 
-This is the supplement files for my thesis. 
+It is the supplement files for my thesis. 
+
 This master thesis is one part that belongs to my internship at INRAE under supervision of [Prof. Vincent Martinet](https://sites.google.com/site/martinetvincent/home?authuser=0).
 
 In particular, this repo will show you all my code that is equivalent to some specific parts of my thesis. 
