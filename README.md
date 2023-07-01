@@ -2,7 +2,7 @@ Hello-Bonjour,
 
 It is the supplement files for my thesis. 
 
-This master thesis is one part that belongs to my internship under supervision of [Prof. Vincent Martinet](https://sites.google.com/site/martinetvincent/home?authuser=0) at INRAE.
+This master's thesis is one part that belongs to my internship under supervision of [Prof. Vincent Martinet](https://sites.google.com/site/martinetvincent/home?authuser=0) at INRAE.
 
 In particular, this repo will show you all my code that is equivalent to some specific parts of my thesis. 
 Please click on each file to read the single file you want.
